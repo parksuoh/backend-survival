@@ -60,7 +60,22 @@ DELETE 는 말그대로 삭제를 요청할때 사용한다.
 
 OPTION은 서버와 클라인터가 통신하기 위한 옵션확인을 위해 사용된다.
 
+
+
 * HTTP Status Code(응답)
+
+1xx&#x20;
+
+2xx 은 성공 했을때 오는 응답 코드이다. 200 OK 201 Created 204 No Content 가 주로사용된다.
+
+3xx 리다이렉션 할때 오는 응답 코드이다. 304 Not Modified가 사용된다.
+
+4xx 클라이언트에서 문제 발생시 오는 응답 코드이다. 404 Not Found등이 사용된다.
+
+5xx 서버 쪽 문제 일대 사용된다. 500 Internal Server Error 등이 사용된다.
+
+
+
 * TCP/IP 통신
 * TCP와 UDP
 * Socket
