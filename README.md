@@ -1,6 +1,6 @@
 ---
-description: test111
+description: HTTP (Hypertext Transfer Protocol)
 ---
 
-# backend-survival
+# 1. HTTP기초
 
