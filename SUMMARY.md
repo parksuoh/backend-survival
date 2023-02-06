@@ -7,3 +7,4 @@
 * [1-4 Java HTTP Server](1-4-java-http-server.md)
 * [1-5 Spring Web MVC](1-5-spring-web-mvc.md)
 * [2. REST API](2.-rest-api.md)
+* [2-1 REST API](2-1-rest-api.md)
