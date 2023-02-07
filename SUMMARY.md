@@ -8,3 +8,4 @@
 * [1-5 Spring Web MVC](1-5-spring-web-mvc.md)
 * [2. REST API](2.-rest-api.md)
 * [2-1 REST API](2-1-rest-api.md)
+* [2-2 URI & MIME type](2-2-uri-and-mime-type.md)
