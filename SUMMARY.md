@@ -11,3 +11,4 @@
 * [2-2 URI & MIME type](2-2-uri-and-mime-type.md)
 * [2-3 Collection pattern](2-3-collection-pattern.md)
 * [2-4 Collection pattern](2-4-collection-pattern.md)
+* [2-5 Spring Web MVC로구현](2-5-spring-web-mvc.md)
