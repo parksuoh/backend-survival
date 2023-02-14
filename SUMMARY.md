@@ -14,3 +14,4 @@
 * [2-5 Spring Web MVC로구현](2-5-spring-web-mvc.md)
 * [3. DTO & JSON & CORS](3.-dto-and-json-and-cors.md)
 * [3-1 DTO](3-1-dto.md)
+* [3-2 직렬화](3-2.md)
