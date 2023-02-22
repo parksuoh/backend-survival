@@ -19,3 +19,4 @@
 * [3-4 CORS](3-4-cors.md)
 * [4. Layered Architecture](4.-layered-architecture.md)
 * [4-1 Layered Architecture](4-1-layered-architecture.md)
+* [4-2 Data Access](4-2-data-access.md)
