@@ -20,3 +20,5 @@
 * [4. Layered Architecture](4.-layered-architecture.md)
 * [4-1 Layered Architecture](4-1-layered-architecture.md)
 * [4-2 Data Access](4-2-data-access.md)
+* [4-3 Domain Model](4-3-domain-model.md)
+* [5. DI & Spring Test](5.-di-and-spring-test.md)
