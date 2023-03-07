@@ -28,3 +28,4 @@
 * [5-4 TDD](5-4-tdd.md)
 * [6. Database](6.-database.md)
 * [6-1 Database](6-1-database.md)
+* [6-2 Relational Model](6-2-relational-model.md)
