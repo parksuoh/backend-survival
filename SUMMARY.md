@@ -29,3 +29,4 @@
 * [6. Database](6.-database.md)
 * [6-1 Database](6-1-database.md)
 * [6-2 Relational Model](6-2-relational-model.md)
+* [6-3 Relational Algerbra](6-3-relational-algerbra.md)
