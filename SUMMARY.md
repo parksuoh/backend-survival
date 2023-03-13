@@ -34,3 +34,4 @@
 * [6-5 JDBC](6-5-jdbc.md)
 * [6-6 JdbcTemplate](6-6-jdbctemplate.md)
 * [7. JPA](7.-jpa.md)
+* [7-1 ORM](7-1-orm.md)
