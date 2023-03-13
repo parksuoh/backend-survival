@@ -33,3 +33,4 @@
 * [6-4 Entity-Relationship Model](6-4-entity-relationship-model.md)
 * [6-5 JDBC](6-5-jdbc.md)
 * [6-6 JdbcTemplate](6-6-jdbctemplate.md)
+* [7. JPA](7.-jpa.md)
