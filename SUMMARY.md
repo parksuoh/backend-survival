@@ -37,3 +37,4 @@
 * [7-1 ORM](7-1-orm.md)
 * [7-2 Hibernate](7-2-hibernate.md)
 * [7-3 Embeddable](7-3-embeddable.md)
+* [7-4 Relationship Mapping](7-4-relationship-mapping.md)
