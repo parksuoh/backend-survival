@@ -39,3 +39,4 @@
 * [7-3 Embeddable](7-3-embeddable.md)
 * [7-4 Relationship Mapping](7-4-relationship-mapping.md)
 * [7-6 Spring Data JPA](7-6-spring-data-jpa.md)
+* [8. 도메인 주도 설계](8..md)
