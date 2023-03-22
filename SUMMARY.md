@@ -42,3 +42,4 @@
 * [8. 도메인 주도 설계](8..md)
 * [8-1 DDD](8-1-ddd.md)
 * [8-2 Strategic Design](8-2-strategic-design.md)
+* [8-3 Entity, Value Object](8-3-entity-value-object.md)
