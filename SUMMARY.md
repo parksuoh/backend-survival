@@ -44,3 +44,4 @@
 * [8-2 Strategic Design](8-2-strategic-design.md)
 * [8-3 Entity, Value Object](8-3-entity-value-object.md)
 * [8-4 Aggregate](8-4-aggregate.md)
+* [8-5 Repository](8-5-repository.md)
