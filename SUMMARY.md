@@ -46,3 +46,4 @@
 * [8-4 Aggregate](8-4-aggregate.md)
 * [8-5 Repository](8-5-repository.md)
 * [9. Hexagonal Architecture](9.-hexagonal-architecture.md)
+* [9-1 SOLID (개체 지향 설계)](9-1-solid.md)
