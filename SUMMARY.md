@@ -45,3 +45,4 @@
 * [8-3 Entity, Value Object](8-3-entity-value-object.md)
 * [8-4 Aggregate](8-4-aggregate.md)
 * [8-5 Repository](8-5-repository.md)
+* [9. Hexagonal Architecture](9.-hexagonal-architecture.md)
