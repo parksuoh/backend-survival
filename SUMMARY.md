@@ -49,4 +49,5 @@
 * [9-1 SOLID (개체 지향 설계)](9-1-solid.md)
 * [9-2 Hexagonal Architecture](9-2-hexagonal-architecture.md)
 * [10 Spring Security](10-spring-security.md)
-* [10-1](10-1.md)
+* [10-1 애플리케이션 수준의 보안](10-1.md)
+* [10-2 인증](10-2.md)
