@@ -57,3 +57,4 @@
 * [11. File Upload](11.-file-upload.md)
 * [12. CQRS](12.-cqrs.md)
 * [12-1 CQRS](12-1-cqrs.md)
+* [12-2 Redis](12-2-redis.md)
